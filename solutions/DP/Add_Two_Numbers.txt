@@ -2,7 +2,7 @@
 //  Problem : Add Two Numbers
 //  Difficulty: Medium
 //  Language  : Choose a type
-//  URL       : https://leetcode.com/problems/add-two-numbers/submissions/
+//  URL       : https://leetcode.com/problems/add-two-numbers/description/
 // ─────────────────────────────────────────
 #         self.val = val
 #         self.next = next
