@@ -1,0 +1,16 @@
+// ─────────────────────────────────────────
+//  Problem : 3sum
+//  Difficulty: Medium
+//  Language  : Choose a type
+//  URL       : https://leetcode.com/problems/3sum/description/
+// ─────────────────────────────────────────
+class Solution:
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
+        nums.sort()
+        res = []
+        n = len(nums)
+        
+        for i in range(n - 2): # Stop at n-2 because you need 3 numbers
+            # 1. Skip duplicate 'i' values
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
