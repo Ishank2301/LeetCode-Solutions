@@ -2,7 +2,7 @@
 //  Problem : Two Sum
 //  Difficulty: Easy
 //  Language  : Choose a type
-//  URL       : https://leetcode.com/problems/two-sum/submissions/1985925206/
+//  URL       : https://leetcode.com/problems/two-sum/description/
 // ─────────────────────────────────────────
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
