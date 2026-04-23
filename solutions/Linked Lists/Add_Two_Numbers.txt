@@ -1,0 +1,16 @@
+// ─────────────────────────────────────────
+//  Problem : Add Two Numbers
+//  Difficulty: Medium
+//  Language  : Choose a type
+//  URL       : https://leetcode.com/problems/add-two-numbers/
+// ─────────────────────────────────────────
+        current = dummy
+        dummy = ListNode(0)
+Optional[ListNode]:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> 
+#         self.next = next
+class Solution:
+#         self.val = val
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
