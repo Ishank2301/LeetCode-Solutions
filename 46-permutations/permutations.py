@@ -21,7 +21,7 @@ class Solution:
 
                 # RECURSE — go deeper with rem[i] removed from remaining
                 # rem[:i] + rem[i+1:] = all elements except index i
-                backtrack(curr, rem[:i] + rem[i+1:])
+                backtrack(curr, rem[:i] + rem[i + 1 :])
 
                 # UNDO CHOICE — remove last added element (backtrack)
                 # pop() not pop(i) — always undo the LAST added element
