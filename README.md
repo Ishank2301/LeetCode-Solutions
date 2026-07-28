@@ -20,6 +20,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
