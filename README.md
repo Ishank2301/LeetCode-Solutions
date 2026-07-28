@@ -10,6 +10,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 ## String
 |  |
 | ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -23,4 +24,13 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

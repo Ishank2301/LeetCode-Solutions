@@ -1,0 +1,8 @@
+class Solution:
+    def repeatedCharacter(self, s: str) -> str:
+        seen = {}
+        for i in range(len(s)):
+            if s[i] in seen:
+                return s[i]
+            else:
+                seen[s[i]] = i
