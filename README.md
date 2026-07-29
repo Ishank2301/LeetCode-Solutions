@@ -10,6 +10,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 ## String
 |  |
 | ------- |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
