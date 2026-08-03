@@ -10,6 +10,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 ## String
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -56,4 +57,12 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
