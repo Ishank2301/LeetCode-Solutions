@@ -24,6 +24,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
 |  |
@@ -47,4 +48,12 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
