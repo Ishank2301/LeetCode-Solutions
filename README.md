@@ -65,4 +65,16 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
