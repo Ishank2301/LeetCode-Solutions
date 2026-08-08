@@ -17,6 +17,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -49,6 +50,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -94,6 +97,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
