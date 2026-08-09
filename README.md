@@ -117,4 +117,24 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
