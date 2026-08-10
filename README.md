@@ -8,6 +8,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -101,22 +102,26 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -137,4 +142,12 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
