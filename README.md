@@ -36,11 +36,13 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,8 +149,16 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## Binary Search
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
