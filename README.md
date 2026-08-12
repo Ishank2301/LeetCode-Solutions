@@ -32,6 +32,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0456-132-pattern](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -149,16 +150,29 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
