@@ -14,6 +14,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 ## String
 |  |
 | ------- |
+| [0961-long-pressed-name](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0961-long-pressed-name) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -61,6 +62,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0961-long-pressed-name](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0961-long-pressed-name) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -154,7 +156,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
