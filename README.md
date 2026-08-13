@@ -46,6 +46,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0460-lfu-cache](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -136,6 +137,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0460-lfu-cache](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,7 +158,7 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
@@ -190,4 +192,12 @@ This Repo is created to store leetcode solutions of the problems i have solved t
 |  |
 | ------- |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
