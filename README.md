@@ -7,6 +7,7 @@
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,24 @@
 |  |
 | ------- |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
