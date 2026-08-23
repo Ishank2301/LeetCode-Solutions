@@ -12,6 +12,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
