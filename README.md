@@ -9,6 +9,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
