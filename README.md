@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -112,4 +113,9 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
