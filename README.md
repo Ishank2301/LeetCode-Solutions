@@ -46,12 +46,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
