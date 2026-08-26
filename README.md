@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
