@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
