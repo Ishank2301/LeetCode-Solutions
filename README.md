@@ -51,6 +51,7 @@
 | [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
