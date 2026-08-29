@@ -8,6 +8,7 @@
 | [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
