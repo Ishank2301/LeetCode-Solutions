@@ -138,4 +138,16 @@
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
