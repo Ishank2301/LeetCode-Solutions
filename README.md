@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 ## Minimax
@@ -137,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
