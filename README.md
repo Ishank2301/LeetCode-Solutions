@@ -25,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [1240-stone-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -139,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Tree
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
