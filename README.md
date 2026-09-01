@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -107,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Ishank2301/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
