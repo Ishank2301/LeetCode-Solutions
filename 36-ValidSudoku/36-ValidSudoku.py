@@ -1,0 +1,64 @@
+# Last updated: 15/9/2026, 11:37:52 pm
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        # The board is cinsidered a matrix with partitions having 3*3 matrix with these matrix creating a 3*3
+
+
+        # Let's make the  hashmap for this to be converted into sudoku:
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
+
+
+
+        # we should check for the number in the row and column of every matrix
+
+        for r in range(9):
+            for c in range(9): 
+                val = board[r][c]
+
+            # Skip the empty cell:    
+                if val == ".":
+                    continue
+
+
+            # Determine which box does the cell belong to :
+                box = (r//3)*3 + (c//3)
+                
+            # Determine which elements are duplicate:
+                if val in rows[r]:
+                    return False
+
+                if val in cols[c]:
+                    return False
+
+                if val in boxes[box]:
+                    return False
+
+            # Mark as seen:
+                rows[r].add(val)
+                cols[c].add(val)
+                boxes[box].add(val)
+        return True
+
+
+
+
+"""
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        rows = defaultdict(set)
+        cols = defaultdict(set)
+        squares = defaultdict(set)
+        for i in range(9):
+            for j in range(9):
+                if board[i][j] == ".":
+                    continue
+                elif board[i][j] in rows[i] or board[i][j] in cols[j] or board[i][j] in squares[(i//3,j//3)]:
+                    return False
+                else:
+                    rows[i].add(board[i][j])
+                    cols[j].add(board[i][j])
+                    squares[(i//3,j//3)].add(board[i][j])
+        return True
+"""
