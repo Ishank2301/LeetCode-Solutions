@@ -1,0 +1,17 @@
+# Last updated: 15/9/2026, 11:36:27 pm
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        value = []
+        while head:
+            value.append(head.val)
+            head = head.next
+
+        return value==value[::-1]
+
+
+        
