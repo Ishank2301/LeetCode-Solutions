@@ -1,0 +1,11 @@
+# Last updated: 15/9/2026, 11:35:00 pm
+from typing import List
+
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+        rank = {}
+
+        for i, num in enumerate(sorted(set(arr)), 1):
+            rank[num] = i
+
+        return [rank[num] for num in arr]
